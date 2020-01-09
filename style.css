@@ -1,0 +1,49 @@
+body
+{
+    background: #e9ebee;
+    font: normal 12px Arial;
+    margin: auto;
+}
+div#login
+{
+    background: #3b5998;
+    color: white;
+    font: normal 12px Segoe UI;
+    margin: auto;
+    width: 100%;
+    height: 5%;
+    padding: 1%;
+}
+span#login
+{
+    margin-top: auto;
+    margin-right: auto;
+    float: right;
+}
+div#corpo
+{
+    margin-top: auto;
+    font: normal 15px Segoe UI;
+    padding: 1%;
+    width: 50%;
+    display: inline-block;
+}
+div#signup
+{
+    white-space: normal;
+    margin-left: 50%;
+    margin-right: auto;
+    padding: 1%;
+    text-align: justify;
+    font-size: 17px;
+}
+div#last
+{
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+h1
+{
+    display: inline;
+}
